@@ -1,0 +1,16 @@
+{
+  "ai_response": {
+    "text": "Got it! Let's figure out what’s behind your procrastination...",
+    "next_step": "Pain Point Clarification",
+    "checkpoint": "Checkpoint 1/5"
+  },
+  "visual_data": {
+    "image_url": "https://yourcdn.com/images/mindset-stage1.png",
+    "image_alt": "Progress visual for Mindset Core"
+  },
+  "momentum_tags": {
+    "pain_point": "Procrastination",
+    "core_area": "Mindset",
+    "emotional_trigger": "Fear of failing"
+  }
+}
